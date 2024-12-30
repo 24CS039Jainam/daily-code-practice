@@ -41,7 +41,7 @@ The sum of the three numbers is 1+2+7=10*/
 using namespace std;
 
 
-int main() {
+int main( ) {
     int a,b,c;
     cin>>a;
     cin>>b;
