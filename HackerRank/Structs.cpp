@@ -41,7 +41,6 @@ Sample Output
 #include <cstdio>
 #include <vector>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 class Student 
