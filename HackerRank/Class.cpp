@@ -79,7 +79,6 @@ class details{
     cin>>b;
     cin>>c;
     cin>>d;
-   
   } 
 
   void out_info_1(){
